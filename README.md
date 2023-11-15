@@ -1,8 +1,9 @@
-# React + Vite
+#Chocolate management Admin site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an admin site web page, where clients can add products to the server and read, and edit also admin can remove any added product.
 
-Currently, two official plugins are available:
+### for Icon 
+I used the react icon component,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### for alert
+_ used sweetalert2 Node pakeghe_.
